@@ -1,0 +1,42 @@
+body {
+    width: 1300px;
+    background-color: #1D2029;
+}
+    header {
+        display: inline-block;
+        width: 80%;
+        margin-left: 10%;
+
+    }
+    .container {
+        display: inline-block;
+        width: 80%;
+        margin-left: 10%;
+    }
+        .container > .social {
+            display: inline-block;
+            float: left;
+            width: 25%;
+            background-color: #252B43;
+        }
+    .container2 {
+        display: inline-block;
+        width: 80%;
+        margin-left: 10%;
+    }
+        .container2 > .stats {
+            display: inline-block;
+            float: left;
+            width: 25%;
+            background-color:#252B43;
+        }
+    footer {
+        display: inline-block;
+        width: 80%;
+        margin-left: 10%;
+        font-size: 11px; 
+        text-align: center;
+    }
+        footer > a { 
+            color: hsl(228, 45%, 44%); 
+        }
