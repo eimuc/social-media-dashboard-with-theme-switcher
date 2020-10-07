@@ -1,0 +1,25 @@
+header > div {
+    display: inline-block;
+    float: left;
+    width: 400px;
+}
+header > div > h1 {
+    display: inline-block;
+    float: left;
+    color: white;
+}
+header > div > p {
+    display: inline-block;
+    float: left;
+    color: #999EBE;
+}
+header > span {
+    display: inline-block;
+    float: right;
+    color: #999EBE;
+    line-height: 40px;
+}
+header > span:hover {
+    cursor: pointer;
+    color: white;
+}

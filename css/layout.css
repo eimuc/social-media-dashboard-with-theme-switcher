@@ -1,78 +1,32 @@
 body {
-    width: 1300px;
+    width: 1360px;
     background-color: #1D2029;
 }
     header {
         display: inline-block;
-        width: 900px;
+        width: 970px;
         margin-top: 30px;
-        margin-left: calc((100% - 900px) / 2);
+        margin-left: calc((100% - 1000px) / 2);
         margin-bottom: 50px;
     }
-        header > div {
-            display: inline-block;
-            float: left;
-            width: 400px;
-        }
-        header > div > h1 {
-            display: inline-block;
-            float: left;
-            color: white;
-        }
-        header > div > p {
-            display: inline-block;
-            float: left;
-            color: #999EBE;
-        }
-        header > span {
-            display: inline-block;
-            float: right;
-            color: #999EBE;
-            
-        }
     .container {
         display: inline-block;
-        width: 930px;
-        margin-left: calc((100% - 960px) / 2);
+        width: 1000px;
+        margin-left: calc((100% - 1000px) / 2);
         margin-bottom: 50px;
         
     }
-        .container > .social {
-            display: inline-block;
-            float: left;
-            width: 202px;
-            padding: 10px;
-            margin-left: 30px;
-            background-color: #252B43;
-        }
     .container2 {
         display: inline-block;
-        width: 930px;
-        margin-left: calc((100% - 960px) / 2);
+        width: 1000px;
+        margin-left: calc((100% - 1000px) / 2);
         margin-bottom: 50px;
     }
-        .container2 > .stats {
-            display: inline-block;
-            float: left;
-            width: 202px;
-            padding: 10px;
-            margin-left: 30px;
-            margin-bottom: 30px;
-            background-color:#252B43;
-        }
-        .container2 > h2 {
-            margin-left: 30px;
-            color: white;
-            margin-bottom: 25px;
-
-        }
     footer {
         display: inline-block;
-        width: 900px;
-        margin-left: calc((100% - 900px) / 2);
+        width: 970px;
+        margin-left: calc((100% - 1000px) / 2);
+        margin-top: 120px;
         font-size: 11px; 
         text-align: center;
     }
-        footer > a { 
-            color: hsl(228, 45%, 44%); 
-        }
