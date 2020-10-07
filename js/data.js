@@ -36,58 +36,58 @@ const dashboard = [
 const stats = [
     {
         title: 'Page Views',
-        icon: 'fa fa-facebook-official',
-        number: 87,
-        arrow: 'fa fa-caret-up',
+        icon2: 'fa fa-facebook-official',
+        number2: 87,
+        arrow2: 'fa fa-caret-up',
         percentage: '3%'
     },
     {
         title: 'Likes',
-        icon: 'fa fa-facebook-official',
-        number: 52,
-        arrow: 'fa fa-caret-down',
+        icon2: 'fa fa-facebook-official',
+        number2: 52,
+        arrow2: 'fa fa-caret-down',
         percentage: '2%'
     },
     {
         title: 'Likes',
-        icon: 'fa fa-instagram',
-        number: 5462,
-        arrow: 'fa fa-caret-up',
+        icon2: 'fa fa-instagram',
+        number2: 5462,
+        arrow2: 'fa fa-caret-up',
         percentage: '2257%'
     },
     {
         title: 'Profile Views',
-        icon: 'fa fa-instagram',
-        number: '52k',
-        arrow: 'fa fa-caret-up',
+        icon2: 'fa fa-instagram',
+        number2: '52k',
+        arrow2: 'fa fa-caret-up',
         percentage: '1375%'
     },
     {
         title: 'Retweets',
-        icon: 'fa fa-twitter',
-        number: 117,
-        arrow: 'fa fa-caret-up',
+        icon2: 'fa fa-twitter',
+        number2: 117,
+        arrow2: 'fa fa-caret-up',
         percentage: '303%'
     },
     {
         title: 'Likes',
-        icon: 'fa fa-twitter',
-        number: 507,
-        arrow: 'fa fa-caret-up',
+        icon2: 'fa fa-twitter',
+        number2: 507,
+        arrow2: 'fa fa-caret-up',
         percentage: '553%'
     },
     {
         title: 'Likes',
-        icon: 'fa fa-youtube-play',
-        number: 107,
-        arrow: 'fa fa-caret-down',
+        icon2: 'fa fa-youtube-play',
+        number2: 107,
+        arrow2: 'fa fa-caret-down',
         percentage: '19%'
     },
     {
         title: 'Total Views',
-        icon: 'fa fa-youtube-play',
-        number: 1407,
-        arrow: 'fa fa-caret-down',
+        icon2: 'fa fa-youtube-play',
+        number2: 1407,
+        arrow2: 'fa fa-caret-down',
         percentage: '12%'
     },
 ]
