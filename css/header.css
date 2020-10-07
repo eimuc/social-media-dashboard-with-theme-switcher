@@ -16,7 +16,7 @@ header > div > p {
 header > span {
     display: inline-block;
     float: right;
-    color: #999EBE;
+    color: white;
     line-height: 40px;
 }
 header > span:hover {

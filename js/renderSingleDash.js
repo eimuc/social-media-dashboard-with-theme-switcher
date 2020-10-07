@@ -9,7 +9,7 @@ function renderSingleDash(data) {
                 <p class="follsub">${data.followers}</p>
                 <div class="social-bottom">
                     <i class="${data.arrow}" aria-hidden="true"></i>
-                    <p class="today">${data.today}</p>
+                    <p class="${data.classs}">${data.today}</p>
                 </div>
             </div>`;         
 }

@@ -34,10 +34,10 @@
             font-size: 20px;
         }
         .container2 > .stats > .stats-top > .fa-instagram {
-            color: orange;
+            color: #FDBD63;
         }
         .container2 > .stats > .stats-top > .fa-youtube-play {
-            color:hsl(356, 69%, 56%);
+            color: #C1022B;
         }
     .container2 > .stats > .stats-bottom {
         display: inline-block;

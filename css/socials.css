@@ -6,7 +6,7 @@
     padding: 10px;
     margin-right: 30px;
     background-color: #252B43;
-    border-top: 3px solid blue;
+    border-top: 3px solid #1EA1F1;
     border-radius: 4px;
 }
 .container > .social:hover {
@@ -14,10 +14,10 @@
     cursor: pointer;
 }
 .container > .social:nth-last-of-type(1) {
-    border-top:3px solid hsl(356, 69%, 56%);
+    border-top:3px solid #C1022B;
 }
 .container > .social:nth-last-of-type(2) {
-    border-top:3px solid orange;
+    border-top:3px solid #FDBD63;
 
 }
     .container > .social > .social-top {
@@ -33,10 +33,10 @@
             font-size: 20px;
         }
         .container > .social > .social-top > .fa-instagram {
-            color: orange;
+            color: #FDBD63;
         }
         .container > .social > .social-top > .fa-youtube-play {
-            color: hsl(356, 69%, 56%);
+            color:  #C1022B;
         }
         .container > .social > .social-top > .nick {
             display: inline-block;

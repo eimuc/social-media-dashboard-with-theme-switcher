@@ -9,7 +9,7 @@ function renderSingleStat(data) {
                     <p class="number">${data.number2}</p>
                     <div>
                         <i class="${data.arrow2}" aria-hidden="true"></i>
-                        <p class="prc">${data.percentage}</p>
+                        <p class="${data.class}">${data.percentage}</p>
                     </div>
                     </div>
             </div>`;         
