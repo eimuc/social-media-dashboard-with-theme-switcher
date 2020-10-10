@@ -1,0 +1,28 @@
+body.light-mode {
+    background-color: white;
+    color: black;
+}
+body.light-mode > header > div > h1 {
+    color: black;
+}
+body.light-mode > .container > .social {
+    background-color: #F0F3FA;
+}
+body.light-mode > .container > .social:hover {
+    background-color: #E1E3F0;
+}
+body.light-mode > .container > .social > .numb {
+    color: black
+}
+body.light-mode > .container2 > .stats {
+    background-color: #F0F3FA;
+}
+body.light-mode > .container2 > .stats:hover {
+    background-color: #E1E3F0;
+}
+body.light-mode > .container2 > h2 {
+    color: black;
+}
+body.light-mode > .container2 > .stats > .stats-bottom > .number {
+    color: black;
+}

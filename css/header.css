@@ -13,13 +13,13 @@ header > div > p {
     float: left;
     color: #999EBE;
 }
-header > span {
+header > .btn-toggle {
     display: inline-block;
     float: right;
     color: white;
     line-height: 40px;
 }
-header > span:hover {
+header > .btn-toggle:hover {
     cursor: pointer;
     color: white;
 }

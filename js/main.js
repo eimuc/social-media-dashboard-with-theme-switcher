@@ -6,3 +6,10 @@ const {dashboard, stats} = data;
 
 renderDashboard(dashboard);
 renderStats(stats);
+
+
+const btn = document.querySelector(".btn-toggle");
+
+btn.addEventListener("click", function () {
+  document.body.classList.toggle("light-mode");
+});
