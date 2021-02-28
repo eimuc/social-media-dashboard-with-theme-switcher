@@ -1,4 +1,4 @@
-https://eimuc.github.io/social-media-dashboard-with-theme-switcher-master/
+https://eimuc.github.io/social-media-dashboard-with-theme-switcher/
 
 # Frontend Mentor - Social media dashboard with theme switcher
 
